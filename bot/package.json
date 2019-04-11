@@ -1,0 +1,29 @@
+{
+  "name": "disbotapi",
+  "version": "1.0.0",
+  "description": "A powerful Javascript library for creating complex discord bots.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OnceDot/DisbotAPI.git"
+  },
+  "keywords": [
+    "discord-bot",
+    "bot",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Dot.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OnceDot/DisbotAPI/issues"
+  },
+  "homepage": "https://github.com/OnceDot/DisbotAPI#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
